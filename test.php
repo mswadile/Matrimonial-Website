@@ -24,7 +24,7 @@ img{
 
 <body>
   <header>
-    <br><center><h2>All India Vadhu-Var</h2></center>
+    <br><center><h2>Website title</h2></center>
   </header>
   <br><br>
 
