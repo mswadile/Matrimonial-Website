@@ -162,7 +162,7 @@ header em{
 </head>
 <body>
   <header>
-    <br><center><b>All India Vadhu-Var</b><br><em>for<br>Kashyap , Kahar , Bhoi , Nishad & all similar </em></center>
+    <br><center><b>Website title</b></center>
   </header>
   <form action="" method="POST">
     <center><h1 style="color:White">Login <input type="text" name="logid" placeholder="Login id"> <input type="password" name="pass" placeholder="password"> <input type="submit" value="Okay"></h1></center>
