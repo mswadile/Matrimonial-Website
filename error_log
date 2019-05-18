@@ -1,0 +1,18 @@
+[10-Mar-2019 09:53:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ji33cv1j290i'@'localhost' (using password: NO) in /home/ji33cv1j290i/public_html/connection.php on line 7
+[10-Mar-2019 09:53:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ji33cv1j290i'@'localhost' (using password: NO) in /home/ji33cv1j290i/public_html/connection.php on line 7
+[10-Mar-2019 09:53:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ji33cv1j290i'@'localhost' (using password: NO) in /home/ji33cv1j290i/public_html/connection.php on line 7
+[11-Mar-2019 07:06:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ji33cv1j290i/public_html/connection.php on line 7
+[11-Mar-2019 19:33:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/ji33cv1j290i/public_html/connection.php on line 7
+[11-Mar-2019 19:38:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ji33cv1j290i/public_html/home.php on line 21
+[11-Mar-2019 19:38:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ji33cv1j290i/public_html/home.php on line 21
+[11-Mar-2019 19:38:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ji33cv1j290i/public_html/home.php on line 21
+[11-Mar-2019 19:38:07 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ji33cv1j290i/public_html/home.php on line 21
+[11-Mar-2019 19:38:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ji33cv1j290i/public_html/home.php on line 21
+[11-Mar-2019 19:38:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ji33cv1j290i/public_html/home.php on line 21
+[11-Mar-2019 19:38:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ji33cv1j290i/public_html/home.php on line 21
+[11-Mar-2019 19:38:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ji33cv1j290i/public_html/home.php on line 21
+[11-Mar-2019 19:38:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ji33cv1j290i/public_html/home.php on line 21
+[12-Mar-2019 14:44:57 UTC] PHP Notice:  Undefined index: uploadfile in /home/ji33cv1j290i/public_html/test.php on line 45
+[12-Mar-2019 14:44:57 UTC] PHP Notice:  Undefined index: uploadfile in /home/ji33cv1j290i/public_html/test.php on line 46
+[12-Mar-2019 14:45:14 UTC] PHP Notice:  Undefined index: uploadfile in /home/ji33cv1j290i/public_html/test.php on line 44
+[12-Mar-2019 14:45:14 UTC] PHP Notice:  Undefined index: uploadfile in /home/ji33cv1j290i/public_html/test.php on line 45
