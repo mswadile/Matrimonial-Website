@@ -174,7 +174,7 @@ select
   <div class="toper">
     <div class="title">
       <?php
-       echo '<center><h1>All India Vadhu-Var</h1></center>'
+       echo '<center><h1>Website title</h1></center>'
        ?>
     </div>
     <div class="photu">
