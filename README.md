@@ -1,4 +1,4 @@
-<center><h1>This is Matrimonial website Created</h1></center><br>
+<center><h1>This is Matrimonial website</h1></center><br>
 <h2>Created in PHP,HTML,CSS,JAVASCRIPT,JQUERY</h2>
 <p><b>Features</b><br>
 <b>1)</b> <i>Male only view Female profile so no any other unwanted data displayed</i> <br>
