@@ -4,5 +4,5 @@
 <b>1)</b> <i>Male only view Female profile so no any other unwanted data displayed</i> <br>
 <b>2)</b> <i>We can filter search acording to our choice</i><br>
 <b>3)</b> <i>Website automatically show recent Signup peoples profile </i><br>
-<b>4)</b> <i>You can alsoview profile of specific people and print biodata</i><br>
-  Help us to improve this website by extracting .css files from .php files 
+<b>4)</b> <i>You can alsoview profile of specific people and print biodata</i><br><br>
+  <h2>Help us to improve this website by extracting .css files from .php files</h2> 
