@@ -5,4 +5,4 @@
 <b>2)</b> <i>We can filter search acording to our choice</i><br>
 <b>3)</b> <i>Website automatically show recent Signup peoples profile </i><br>
 <b>4)</b> <i>You can alsoview profile of specific people and print biodata</i><br><br>
-  <h2>Help us to improve this website by extracting CSS and JavaScript code from .php files</h2> 
+ 
